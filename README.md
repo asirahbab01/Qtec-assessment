@@ -18,7 +18,7 @@ This project summarizes chat logs between users and an AI. It uses Python, NLTK,
 
 ## Sample Output
 
-![Sample Output](screenshots/sample_output.png)
+![Sample Output](screenshots/)
 
 ## Project Structure
 
@@ -29,4 +29,4 @@ This project summarizes chat logs between users and an AI. It uses Python, NLTK,
 ---
 
 **GitHub Repository:**  
-[https://github.com/<your-username>/AI_chat_summarizer](https://github.com/<your-username>/AI_chat_summarizer)
+[https://github.com/asirahbab01/Qtec-assessment](https://github.com/asirahbab01/Qtec-assessment)
