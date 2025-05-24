@@ -1,0 +1,21 @@
+
+File: 2nd chat.txt
+- Total Exchanges: 4
+- User Messages: 2
+- AI Messages: 2
+- Most Common Keywords: python, use, hi, tell, sure
+
+
+File: chat.txt
+- Total Exchanges: 4
+- User Messages: 2
+- AI Messages: 2
+- Most Common Keywords: rice, hello, provide, crop, diseases
+
+
+File: chat_log.txt
+- Total Exchanges: 8
+- User Messages: 4
+- AI Messages: 4
+- Most Common Keywords: python, hi, use, machine, learning
+
