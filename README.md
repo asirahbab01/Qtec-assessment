@@ -18,7 +18,7 @@ This project summarizes chat logs between users and an AI. It uses Python, NLTK,
 
 ## Sample Output
 
-![Sample Output](screenshots/)
+![Obtained Output scenarios](screenshots/)
 
 ## Project Structure
 
